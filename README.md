@@ -1,6 +1,6 @@
 # Installation des Projektes (DEU)
 ## Klonen des Repository
-- Git herunterladen, mit dem Laptop über SSL verbinden
+- Git herunterladen, mit dem Laptop über SSH verbinden
 - Erstelle einen **Fork**.
 - Wähle deinen Path aus, nutze **cd** um den Path zu ändern
 ## Installation der notwendigen Pakete
@@ -19,7 +19,7 @@ Es wird die Applikation als Localhost geöffnet, als auch Hintergrund gestartet
  # Project Installation (ENG)
 
 ## Cloning the Repository 
-- Download Git, connect your laptop via SSL.
+- Download Git, connect your laptop via SSH.
 - Create a **Fork**.
 - Select your path, use **cd** to change the path.
 
@@ -42,7 +42,7 @@ The application will be opened as localhost and also started in the background.
 # Installation du Project (FRA)
 
 ## Clonage du Repertoire
-- Installer Git, connectez l'ordinateur portable via SSL.
+- Installer Git, connectez l'ordinateur portable via SSH.
 - Creez un **Fork**.
 - Selectionnez votre chemin, utilisez **cd** pour changer le chemin.
 
