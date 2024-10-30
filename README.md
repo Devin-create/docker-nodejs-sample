@@ -46,7 +46,7 @@ The application will be opened as localhost and also started in the background.
 - Creez un **Fork**.
 - Selectionnez votre chemin, utilisez **cd** pour changer le chemin.
 
-## Installation des Paquets Nécessaires
+## Installation des Paquets Necessaires
 - Apres le clonage, installez les paquets necessaires.
 
 ## Configuration et Installation de Docker
